@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="514338df-7182-4b93-b743-a4f49e4772cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PxdYFPtXd3iVdEva2wr5GqL5vF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mosaicsheep/greedy" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dynamicprogramming" />
+      <recent name="com.mosaicsheep.search.binarysearch" />
+      <recent name="com.mosaicsheep.sort.radixsort" />
+      <recent name="com.mosaicsheep.sort.quicksort" />
+      <recent name="com.mosaicsheep.sort.bubblesort" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/mosaicsheep/greedy" />
+      <recent name="$PROJECT_DIR$/src/dynamicprogramming" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/com/mosaicsheep/huffmancodeing/zipfile" />
+      <recent name="$PROJECT_DIR$/src/com/mosaicsheep/huffmancodeing/refactored" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Kruskal">
+    <configuration name="Greedy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosaicsheep.greedy.Greedy" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mosaicsheep.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosaicsheep.kmp.KMP" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mosaicsheep.kmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kruskal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosaicsheep.kruskalalgorithm.Kruskal" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mosaicsheep.kruskalalgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosaicsheep.primalgorithm.Prim" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mosaicsheep.primalgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViolenceMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosaicsheep.kmp.ViolenceMatch" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mosaicsheep.kmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.22" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Kruskal" />
+        <item itemvalue="Application.Prim" />
+        <item itemvalue="Application.Greedy" />
+        <item itemvalue="Application.KMP" />
+        <item itemvalue="Application.ViolenceMatch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="514338df-7182-4b93-b743-a4f49e4772cf" name="Default Changelist" comment="" />
+      <created>1566819726541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566819726541</updated>
+      <workItem from="1566819731319" duration="1349000" />
+      <workItem from="1566901790426" duration="5241000" />
+      <workItem from="1566988421313" duration="2886000" />
+      <workItem from="1567223328662" duration="2750000" />
+      <workItem from="1567247362523" duration="3040000" />
+      <workItem from="1567326736551" duration="159000" />
+      <workItem from="1567332623088" duration="1545000" />
+      <workItem from="1567769473175" duration="183000" />
+      <workItem from="1567912356066" duration="1486000" />
+      <workItem from="1567913878527" duration="49000" />
+      <workItem from="1567924828954" duration="328000" />
+      <workItem from="1568296575060" duration="12000" />
+      <workItem from="1568361770696" duration="2870000" />
+      <workItem from="1568375875333" duration="3000" />
+      <workItem from="1568431832569" duration="4785000" />
+      <workItem from="1568616688120" duration="4010000" />
+      <workItem from="1568634831663" duration="2824000" />
+      <workItem from="1568720409614" duration="3715000" />
+      <workItem from="1568781883239" duration="3174000" />
+      <workItem from="1568869617264" duration="651000" />
+      <workItem from="1569264499309" duration="2747000" />
+      <workItem from="1569484989943" duration="17000" />
+      <workItem from="1569485030451" duration="3258000" />
+      <workItem from="1569492037054" duration="1636000" />
+      <workItem from="1569578103301" duration="3263000" />
+      <workItem from="1570093396382" duration="15000" />
+      <workItem from="1570095857563" duration="1000" />
+      <workItem from="1576359921757" duration="14000" />
+      <workItem from="1576414439587" duration="2342000" />
+      <workItem from="1576491706756" duration="1069000" />
+      <workItem from="1576580807015" duration="2707000" />
+      <workItem from="1576666258991" duration="10766000" />
+      <workItem from="1576751673727" duration="2141000" />
+      <workItem from="1576753923272" duration="888000" />
+      <workItem from="1576762001980" duration="127000" />
+      <workItem from="1576838663185" duration="2725000" />
+      <workItem from="1577356195160" duration="1424000" />
+      <workItem from="1577442244857" duration="3695000" />
+      <workItem from="1577528444785" duration="5754000" />
+      <workItem from="1577544873822" duration="12000" />
+      <workItem from="1577618747338" duration="3630000" />
+      <workItem from="1577704716998" duration="4391000" />
+      <workItem from="1577879341800" duration="3077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1577706874651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1577706874651" />
+    <state x="259" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577706472975">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="259" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1577706472975" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1577964104516">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577964104516" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1576754988584" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1577964104515">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577964104515" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1576754988583" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1577964104515">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577964104515" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1576754988582" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1577964104515">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577964104515" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1576754988583" />
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1577444054170">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1577444054170" />
+  </component>
+</project>

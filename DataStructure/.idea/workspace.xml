@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="870ea87b-56a8-49dc-8cf4-113666b3850e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OiUJfh3QaX0AX6lC5pDsJ2q66k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mosaicsheep/graph" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mosaicsheep.graph" />
+      <recent name="com.mosaicsheep.sparsearray" />
+      <recent name="com.mosaicsheep.stack" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/mosaicsheep/graph" />
+      <recent name="$PROJECT_DIR$/src/com/mosaicsheep/binarytree/binarysorttree" />
+      <recent name="$PROJECT_DIR$/src/com/mosaicsheep/binarytree/threadedbinarytree" />
+      <recent name="$PROJECT_DIR$/src/com/mosaicsheep/binarytree" />
+      <recent name="$PROJECT_DIR$/src/com/mosaicsheep/hashtable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Graph4">
+    <configuration name="AVLTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosaicsheep.binarytree.avltree.AVLTreeDemo" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mosaicsheep.binarytree.avltree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosaicsheep.graph.Graph" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mosaicsheep.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graph2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosaicsheep.graph.Graph2" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mosaicsheep.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graph3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosaicsheep.graph.Graph3" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mosaicsheep.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graph4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosaicsheep.graph.Graph4" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mosaicsheep.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Graph4" />
+        <item itemvalue="Application.Graph3" />
+        <item itemvalue="Application.Graph2" />
+        <item itemvalue="Application.Graph" />
+        <item itemvalue="Application.AVLTreeDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="870ea87b-56a8-49dc-8cf4-113666b3850e" name="Default Changelist" comment="" />
+      <created>1562579184076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562579184076</updated>
+      <workItem from="1562579185311" duration="5000" />
+      <workItem from="1562579199314" duration="3760000" />
+      <workItem from="1562583587953" duration="7000" />
+      <workItem from="1562638709985" duration="597000" />
+      <workItem from="1562666899767" duration="4122000" />
+      <workItem from="1562747839475" duration="6212000" />
+      <workItem from="1562845186456" duration="1376000" />
+      <workItem from="1562925607084" duration="746000" />
+      <workItem from="1563008836713" duration="6510000" />
+      <workItem from="1563071354436" duration="114000" />
+      <workItem from="1563097165426" duration="3957000" />
+      <workItem from="1563190559478" duration="8000" />
+      <workItem from="1563330077007" duration="9018000" />
+      <workItem from="1563363426280" duration="31000" />
+      <workItem from="1563445743353" duration="3470000" />
+      <workItem from="1563876837613" duration="3224000" />
+      <workItem from="1563949434086" duration="10000" />
+      <workItem from="1563963684906" duration="2689000" />
+      <workItem from="1564015027218" duration="1243000" />
+      <workItem from="1564304834913" duration="1119000" />
+      <workItem from="1564362026474" duration="5863000" />
+      <workItem from="1564376845104" duration="735000" />
+      <workItem from="1564459843066" duration="854000" />
+      <workItem from="1564463784336" duration="733000" />
+      <workItem from="1564484454760" duration="1462000" />
+      <workItem from="1564567218237" duration="2830000" />
+      <workItem from="1564651409119" duration="665000" />
+      <workItem from="1564730935328" duration="784000" />
+      <workItem from="1564734547532" duration="274000" />
+      <workItem from="1564818832579" duration="3901000" />
+      <workItem from="1565053852747" duration="113000" />
+      <workItem from="1565085422665" duration="1233000" />
+      <workItem from="1565262050874" duration="1825000" />
+      <workItem from="1565264403651" duration="19000" />
+      <workItem from="1565430978145" duration="2394000" />
+      <workItem from="1565437303456" duration="121000" />
+      <workItem from="1565514346593" duration="40000" />
+      <workItem from="1565522085191" duration="2182000" />
+      <workItem from="1565582067375" duration="4134000" />
+      <workItem from="1565603964505" duration="4909000" />
+      <workItem from="1565670416722" duration="25000" />
+      <workItem from="1565771265256" duration="7785000" />
+      <workItem from="1565842070501" duration="611000" />
+      <workItem from="1565865460932" duration="753000" />
+      <workItem from="1565955323516" duration="26000" />
+      <workItem from="1566037834066" duration="4131000" />
+      <workItem from="1566100815659" duration="44000" />
+      <workItem from="1566121342320" duration="5692000" />
+      <workItem from="1566208843827" duration="2368000" />
+      <workItem from="1566273297253" duration="54000" />
+      <workItem from="1566298244372" duration="3780000" />
+      <workItem from="1566379873079" duration="50000" />
+      <workItem from="1566387919362" duration="2000" />
+      <workItem from="1566450339830" duration="279000" />
+      <workItem from="1566471748246" duration="385000" />
+      <workItem from="1566472332960" duration="687000" />
+      <workItem from="1566524279075" duration="31000" />
+      <workItem from="1566554404965" duration="3817000" />
+      <workItem from="1566640600131" duration="612000" />
+      <workItem from="1566727859157" duration="2000" />
+      <workItem from="1566816889546" duration="1256000" />
+      <workItem from="1567223272651" duration="50000" />
+      <workItem from="1567326915261" duration="606000" />
+      <workItem from="1567837894946" duration="7840000" />
+      <workItem from="1567856813354" duration="118000" />
+      <workItem from="1568296609134" duration="21000" />
+      <workItem from="1568349066907" duration="2000" />
+      <workItem from="1569699876747" duration="1820000" />
+      <workItem from="1569785315767" duration="3366000" />
+      <workItem from="1569873067216" duration="448000" />
+      <workItem from="1570093419383" duration="2327000" />
+      <workItem from="1570522663864" duration="2686000" />
+      <workItem from="1570874230522" duration="2256000" />
+      <workItem from="1570899064950" duration="897000" />
+      <workItem from="1571315501309" duration="416000" />
+      <workItem from="1572270969133" duration="3995000" />
+      <workItem from="1573223741259" duration="131000" />
+      <workItem from="1576359942402" duration="3517000" />
+      <workItem from="1576492782024" duration="1995000" />
+      <workItem from="1576604593883" duration="645000" />
+      <workItem from="1576666239078" duration="16000" />
+      <workItem from="1576762132654" duration="1355000" />
+      <workItem from="1576842132478" duration="1791000" />
+      <workItem from="1576923589021" duration="3912000" />
+      <workItem from="1577013015398" duration="2990000" />
+      <workItem from="1577110138800" duration="1393000" />
+      <workItem from="1577187918574" duration="1734000" />
+      <workItem from="1577271566170" duration="4328000" />
+      <workItem from="1577355134313" duration="633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1577188080428">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1577188080428" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1577356189755">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577356189755" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1577356189755">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577356189755" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1577356189754">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577356189754" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1577356189755">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577356189755" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1576497899322">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1576497899322" />
+  </component>
+</project>
